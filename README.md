@@ -2,10 +2,14 @@
 This reposiratory contains info about the MALAER (MAchine Learning-based AERosol) retrieval algorithm.
 
 # Description of the files:
-1) The MALAER_ufs.py file, contains several utility functions (ufs) which are used in the MALAER algorithm. More detailed info are included in each function,
-in the file itself.
+1) The MALAER_main.py file, is the main file which contains the MALAER algorithm. More details are included in the file.
 
-2) The MALAER_main.py file, is the main file which contains the MALAER algorithm. More details are included in the file.
+2) The MALAER_ufs.py file, contains several utility functions (ufs) which are used in the MALAER algorithm. More detailed info are included in each function,
+in the file.
+
+3) The download_data.py file, can be used to download several data, which are used in the MALAER algorithm as features/targets. More details are included in the file.
+
+4) The make_s5p_overpass.py file, can be used to make overpass files of a specific area, from the S5P/TROPOMI file. More details are included in the file.
 
 
 # Description of the MALAER retrieval algorithm:

@@ -1,5 +1,5 @@
 # MALAER
-This reposiratory contains info about the MALAER (MAchine Learning-based AERosol) retrieval algorithm.
+This reposiratory contains the Python files, which are used in the MALAER (MAchine Learning-based AERosol) retrieval algorithm.
 
 # Description of the files:
 1) The MALAER_main.py file, is the main file which contains the MALAER algorithm. More details are included in the file.

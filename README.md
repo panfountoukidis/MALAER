@@ -9,7 +9,7 @@ in the file.
 
 3) The download_data.py file, can be used to download several data, which are used in the MALAER algorithm as features/targets. More details are included in the file.
 
-4) The make_s5p_overpass.py file, can be used to make overpass files of a specific area, from the S5P/TROPOMI file. More details are included in the file.
+4) The make_s5p_overpass.py file, can be used to make overpass files over a specific area, from the S5P/TROPOMI L1 and L2 data. More details are included in the file.
 
 
 # Description of the MALAER retrieval algorithm:
